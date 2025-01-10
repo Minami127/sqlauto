@@ -4,7 +4,7 @@
 pip install pandas openpyxl mysql-connector
 pip3 install pandas openpyxl mysql-connector
 
-### 사용법
+### 엑셀 생성
 
 ![이미지1](images/1.png)
 
