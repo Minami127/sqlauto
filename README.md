@@ -13,3 +13,17 @@ pip3 install pandas openpyxl mysql-connector
 ![이미지3](images/3.png)
 
 ![이미지4](images/4.png)
+
+#### 위에서 만든 엑셀파일을 insert하기
+
+![이미지5](images/5.png)
+
+![이미지6](images/6.png)
+
+![이미지6](images/7.png)
+
+
+이런식으로 db에 데이터가 들어간다
+
+### 만약 db 연결이 안되면 pip install mysql-connector-python==8.0.31 or pip3 install mysql-connector-python==8.0.31 !!
+버전이 안맞아서 안되는걸수도있음
