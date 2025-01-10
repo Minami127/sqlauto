@@ -2,7 +2,9 @@ import pandas as pd
 import openpyxl
 
 data = {
-    "직접 넣을 데이터들"
+    "name": ["Lebron", "Curry", "Durant"],
+    "age": [40, 36, 36],
+    "team": ["LAL", "GSW", "PHX"]
 }
 
 df = pd.DataFrame(data)
